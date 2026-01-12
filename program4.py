@@ -8,4 +8,4 @@ if num<0:
     print("Error: Factorial is not defined for negative numbers")
 else:
     result=factorial(num)
-    print(f"\n The factorial of {num} is {result}")
+    print(f"\nThe factorial of {num} is {result}")
